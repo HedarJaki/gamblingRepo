@@ -1,0 +1,5 @@
+https://codeinplace.stanford.edu/
+https://www.sololearn.com/en/learn/courses/python-introduction
+github
+range :
+	i adalah index
