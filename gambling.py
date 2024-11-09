@@ -86,7 +86,7 @@ def minusbalance(balance, total_bet):
         else:
             print("please enter a number")
 
-#Main Program
+
 balance = topup()
 balance = choice_topup(balance)
 lines = get_number_of_lines()
